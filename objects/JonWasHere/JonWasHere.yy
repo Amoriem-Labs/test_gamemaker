@@ -21,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "test_gamemaker",
-    "path": "test_gamemaker.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object12",
+  "name": "JonWasHere",
   "tags": [],
   "resourceType": "GMObject",
 }
